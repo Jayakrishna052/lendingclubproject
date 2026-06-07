@@ -3,4 +3,5 @@
 # i am adding this feature1
 # i am learning git and github 
 # i am happy learn this.... 
-# i am writing this to check reset command 
+# i am writing this to check reset command
+# i am adding this line to 5
