@@ -13,12 +13,12 @@ pipeline{
         }
         stage('Package'){
             steps{
-                echo "Package completed successfully"
+                echo "Package Completed successfully"
             }
         }
         stage('Deploy'){
             steps{
-                echo "Deployment completed successfully"
+                echo "Deployment Completed successfully"
             }
         }
     }
